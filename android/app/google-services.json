@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324983631139",
+    "project_id": "shoppioapp-38448",
+    "storage_bucket": "shoppioapp-38448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324983631139:android:fd1b62e8088c531e137096",
+        "android_client_info": {
+          "package_name": "com.example.shoppio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324983631139-v2murn1tdbs5v27abj4j3cprb6a0r81e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnR6-nR6yAFi2herHaCwnLdjf-JQn8OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324983631139-v2murn1tdbs5v27abj4j3cprb6a0r81e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
